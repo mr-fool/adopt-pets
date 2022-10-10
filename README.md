@@ -1,3 +1,5 @@
+https://mr-fool.github.io/pet-shop/src/index.html
+(require metamask plugin or you will see a title page)
 # adopt-pets
 
 ## Project setup
